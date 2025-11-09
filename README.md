@@ -1,6 +1,6 @@
 # The Fiduciary Breach of the Modern University
 
-### Reclaiming Epistemic Trust in the Age of Managerial Knowledge
+### Fiduciary Law and the Epistemic Constitution of the Fourth Estate
 
 ---
 
@@ -16,7 +16,7 @@ This paper consolidates the fiduciary–epistemic theory of institutional author
 
 Integrating insights from _When the Higher Education System Flashes Red_ (Kahl 2025n) and _Higher Education as Critical Infrastructure_ (Kahl 2025o), the paper redefines higher education as part of the epistemic constitution—its _Fourth Estate_—bearing fiduciary duties of candour, care, loyalty, and accessibility to the epistemic public. Under regimes of managerialism, branding, and bureaucratic opacity, these duties collapse into performative compliance. The resulting pathology—epistemic clientelism—substitutes trust with dependency, candour with optics, and scholarship with algorithmic conformity.
 
-To restore legitimacy, the paper proposes the **Epistemic Fiduciary University (EFU)**: an institutional model embedding fiduciary duties of candour, care, loyalty, and accessibility as enforceable legal and moral standards. The EFU incorporates independent epistemic audits and public beneficiary rights, aligning domestic reform with UNESCO and OECD integrity frameworks. Positioned as the epistemic analogue to Kahl’s _Epistemic Fiduciary Entity_ (EFE), the EFU reconstitutes the university as a core organ of the _Fourth Estate_—an autonomous guardian of epistemic welfare within the fiduciary constitution of knowledge.  The paper concludes that fiduciary law, epistemic virtue, and institutional openness together form democracy’s moral infrastructure, and that the restoration of the fiduciary compact of knowledge is essential for the survival of an open society.
+To restore legitimacy, the paper proposes the **Epistemic Fiduciary University (EFU)**: an institutional model embedding fiduciary duties of candour, care, loyalty, and accessibility as enforceable legal and moral standards. The EFU incorporates independent epistemic audits and public beneficiary rights, aligning domestic reform with UNESCO and OECD integrity frameworks. Positioned as the epistemic analogue to Kahl’s _Epistemic Fiduciary Entity_ (EFE), the EFU reconstitutes the university as a core organ of the _Fourth Estate_—an autonomous guardian of epistemic welfare within the fiduciary constitution of knowledge. By extending fiduciary reasoning across universities, media, and AI systems, the paper reconceives fiduciary law as a universal grammar of public epistemic trust, binding all institutions that mediate truth and credibility. The paper concludes that fiduciary law, epistemic virtue, and institutional openness together form democracy’s moral infrastructure, and that the restoration of the fiduciary compact of knowledge is essential for the survival of an open society.
 
 ## Keywords
 
@@ -28,7 +28,7 @@ fiduciary duty, fiduciary openness, epistemic justice, epistemic clientelism, fi
 
 ## Cite this work
 
-Kahl, P. (2025). _The fiduciary breach of the modern university: Reclaiming epistemic trust in the age of managerial knowledge_. Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/The-Fiduciary-Breach-of-the-Modern-University DOI: https://doi.org/10.5281/zenodo.
+Kahl, P. (2025). _The fiduciary breach of the modern university: Fiduciary law and the epistemic constitution of the fourth estate_. Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/The-Fiduciary-Breach-of-the-Modern-University DOI: https://doi.org/10.5281/zenodo.
 
 ## Publisher & Licence
 
