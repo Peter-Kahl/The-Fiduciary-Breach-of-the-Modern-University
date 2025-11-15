@@ -26,7 +26,7 @@ fiduciary duty, fiduciary openness, fiduciary constitutionalism, epistemic justi
 
 ## Download
 
-- [Download PDF](https://raw.githubusercontent.com/Peter-Kahl/The-Fiduciary-Breach-of-the-Modern-University/master/Kahl_P_The_Fiduciary_Breach_of_the_Modern_University_2025-11-11.pdf) ✅ _latest_
+- [Download PDF](https://raw.githubusercontent.com/Peter-Kahl/The-Fiduciary-Breach-of-the-Modern-University/master/Kahl_P_The_Fiduciary_Breach_of_the_Modern_University_2025-11-15.pdf) ✅ _latest_
 
 ## Cite this work
 
